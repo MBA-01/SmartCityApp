@@ -59,8 +59,8 @@ This web application is built using Java EE technologies and provides:
 
 ## Project Structure
 
-The project follows a standard Maven webapp structure:
-demo3/
+The project follows a standard Maven webapp structure:    
+demo3/   
 ├── src/  
 │ └── main/     
 │ ├── webapp/   
