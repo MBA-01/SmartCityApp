@@ -61,16 +61,16 @@ This web application is built using Java EE technologies and provides:
 
 The project follows a standard Maven webapp structure:
 demo3/
-├── src/
-│ └── main/
-│ ├── webapp/
-│ │ ├── css/
-│ │ ├── images/
-│ │ ├── WEB-INF/
-│ │ └── .jsp
-│ └── java/
-├── target/
-└── pom.xml
+├── src/  
+│ └── main/     
+│ ├── webapp/   
+│ │ ├── css/   
+│ │ ├── images/  
+│ │ ├── WEB-INF/  
+│ │ └── .jsp   
+│ └── java/   
+├── target/   
+└── pom.xml   
 
 
 ## Getting Started
