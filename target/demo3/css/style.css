@@ -1,0 +1,25 @@
+h2 { -moz-animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    -moz-animation-name: slidein;
+    -webkit-animation-name: slidein;
+ }
+ @-moz-keyframes slidein {
+      from {margin-left:100%;
+              width:100% }
+      to {margin-left:12%; width:100%;}
+ }
+ @-webkit-keyframes slidein {
+    from {margin-left:100%; width:100%}
+    to { margin-left:12%;width:100%;}
+ }
+h3 {margin-left:12%}
+ #logo1{float:left;}
+
+ table {
+   border: 16px bevel;
+   /*elevation: 5        /* the _border_ elevation */
+}
+td, th {
+   border: 12px bevel;
+   /*elevation: -1*/
+}
