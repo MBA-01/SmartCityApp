@@ -1,9 +1,14 @@
 # SmartCityApp Web Application
-A Java web application serving as a comprehensive city guide, featuring listings for companies, hotels, restaurants, and monuments. Built with Java EE, it includes user authentication, content management, and a responsive UI with animations. Check the Project Report for detailed documentation.
+A Java web application serving as a comprehensive city guide, featuring listings for companies, hotels, restaurants, and monuments. 
+Its goal is to assist residents, students, job seekers, tourists, and businesses in accessing city-specific information and services through distinct modules, ensuring a user-friendly, secure, and efficient experience. 
+
+Built with Java EE, it includes user authentication, content management, and a responsive UI with animations. Check the Project Report for detailed documentation. [a relative link](Smart City App Report.pdf)
 
 ____________________________________________________________________________________________________
 
+
 ## Project Overview
+
 
 This web application is built using Java EE technologies and provides:
 
