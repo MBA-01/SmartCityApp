@@ -2,7 +2,7 @@
 A Java web application serving as a comprehensive city guide, featuring listings for companies, hotels, restaurants, and monuments.    
 Its goal is to assist residents, students, job seekers, tourists, and businesses in accessing city-specific information and services through distinct modules, ensuring a user-friendly, secure, and efficient experience.   
    
-Built with Java EE, it includes user authentication, content management, and a responsive UI with animations. Check the Project Report for detailed documentation.  [Report](https://github.com/MBA-01/SmartCityApp/blob/main/Smart_City_App_Report.pdf)   
+Built with Java EE, it includes user authentication, content management, and a responsive UI with animations. Check the Project Report for detailed documentation.  [Report](Smart_City_App_Report.pdf)   
    
 ____________________________________________________________________________________________________
 
